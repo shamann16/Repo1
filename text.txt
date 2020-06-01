@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 98B7-A3A7
+
+ Directory of C:\Users\sn166438\Desktop\Myfolder
+
+01-06-2020  12:50    <DIR>          .
+01-06-2020  12:50    <DIR>          ..
+01-06-2020  12:50                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  410,422,960,128 bytes free
